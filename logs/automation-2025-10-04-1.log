@@ -1,0 +1,58 @@
+2025-10-04 19:57:26.474 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-04 19:57:26.809 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml
+
+2025-10-04 19:57:53.628 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-04 19:57:53.819 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml
+
+2025-10-04 19:59:31.813 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-04 19:59:32.008 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml
+
+2025-10-04 20:00:29.039 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:00:29.039 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:02:49.528 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-04 20:02:49.739 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml
+
+2025-10-04 20:03:38.017 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:03:38.017 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:04:58.965 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-04 20:04:59.404 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml
+
+2025-10-04 20:05:52.760 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:05:52.760 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:20:14.093 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-04 20:20:14.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml
+
+2025-10-04 20:21:03.903 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:21:03.903 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:21:04.564 [main] INFO  testCases.TC_001_LoginTest - ******** Finished TC_001_LoginTest *******
+2025-10-04 20:21:04.564 [main] INFO  testCases.TC_001_LoginTest - ******** Finished TC_001_LoginTest *******
+2025-10-04 20:22:22.072 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-04 20:22:22.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml
+
+2025-10-04 20:23:14.537 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:23:14.537 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:23:15.088 [main] INFO  testCases.TC_001_LoginTest - ******** Finished TC_001_LoginTest *******
+2025-10-04 20:23:15.088 [main] INFO  testCases.TC_001_LoginTest - ******** Finished TC_001_LoginTest *******
+2025-10-04 20:52:55.761 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-04 20:52:56.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml
+
+2025-10-04 20:53:49.884 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:53:49.884 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:53:50.555 [main] INFO  testCases.TC_001_LoginTest - ******** Finished TC_001_LoginTest *******
+2025-10-04 20:53:50.555 [main] INFO  testCases.TC_001_LoginTest - ******** Finished TC_001_LoginTest *******
+2025-10-04 20:56:00.207 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-04 20:56:00.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Obinna.Ezirim\eclipse-workspace\SauceDemoV101\master.xml
+
+2025-10-04 20:56:50.015 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:56:50.015 [main] INFO  testCases.TC_001_LoginTest - ******** Starting TC_001_LoginTest *******
+2025-10-04 20:56:50.599 [main] INFO  testCases.TC_001_LoginTest - ******** Finished TC_001_LoginTest *******
+2025-10-04 20:56:50.599 [main] INFO  testCases.TC_001_LoginTest - ******** Finished TC_001_LoginTest *******

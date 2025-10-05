@@ -16,9 +16,11 @@
     <parameter name="os" value="Windows" />
     <parameter name="browser" value="Chrome" /> 
     <classes>
-   <!-- <class name="testCases.TC001_RegisterAccountTest"/>  --> <!-- I can add as many testcases here --> 
+    <!-- I can add as many testcases here -->
+    <class name="testCases.TC_001_LoginTest"/> 
+   <class name="testCases.TC_002_AddToCartTest"/> 
    <!-- <class name="testCases.TC00_LoginTest"/> -->  
-      <class name="testCases.TC_001_LoginTest"/>  
+       
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
